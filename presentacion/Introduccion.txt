@@ -1,0 +1,1 @@
+Esta es una página web de una tienda de ropa que intenta ser lo más limpia refrescante y distinta al resto, utilizando Boostrap con mezcla de HTML y CSS
